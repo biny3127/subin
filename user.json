@@ -1,0 +1,25 @@
+[
+  {
+    "name": "김수빈",
+    "role": "PROJECT MANAGER",
+    "email": "johndoe@example.com",
+    "isActive": true
+  },
+  {
+    "name": "함송진",
+    "role": "FRONT DEVELOPER",
+    "email": "johndoe@example.com",
+    "isActive": true
+  },
+  {
+    "name": "정지원",
+    "role": "FRONT DEVELOPER",
+    "email": "johndoe@example.com",
+    "isActive": true
+  },
+  {
+    "name": "이윤기",
+    "email": "DESIGNER",
+    "isActive": true
+  }
+]
